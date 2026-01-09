@@ -24,7 +24,7 @@ A **fully functional To-Do web application** built using **HTML, CSS, and JavaSc
 
 1. Clone the repository:
    ```bash
-    https://github.com/your-username/your-repo-name.git
+    https://github.com/Surya-exp23/To-do-WebApp.git
 
 2. Open index.html in your web browser.  
 3. Start adding and managing your daily tasks.  
